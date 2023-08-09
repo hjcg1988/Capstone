@@ -1,4 +1,4 @@
-Hello
+Hello fellow reviewer
 
 You can run available unittests from VS terminal using command: python manage.py test 
 Don't forget to activate virtual env and cd into littlelemon directory before running unit-tests command.
